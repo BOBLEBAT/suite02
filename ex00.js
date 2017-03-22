@@ -22,4 +22,4 @@
 
 */
 
-// This exercice ex00bis.js doesn't need to be filled, you can go to the ex01.js :)
+// This exercice ex00.js doesn't need to be filled, you can go to the ex01.js :)
